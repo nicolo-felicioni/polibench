@@ -1,0 +1,1 @@
+apache-cassandra-4.0-beta1/bin/cqlsh -f initdb.cql
