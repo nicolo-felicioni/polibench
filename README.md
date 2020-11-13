@@ -487,5 +487,5 @@ In Cassandra, creating a column family for the join complex query improves the p
 </p>
 
 ## Authors
-* [Nicolò Felicioni](https://github.com/ciamir51)
+* [Nicolò Felicioni](https://github.com/nicolo-felicioni)
 * [Davide Yi Xian Hu](https://github.com/dragonbanana)
